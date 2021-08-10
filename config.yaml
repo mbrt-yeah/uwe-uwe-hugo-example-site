@@ -23,7 +23,7 @@ params:
 
         shortDesc: 
             display: true
-            value: "A minimalist theme that helps you build fully responsive documentation websites for small projects."
+            value: "An example website showcasing the uwe uwe (u²) theme for the static site generator Hugo."
 
         platformLinks:
             display: true
